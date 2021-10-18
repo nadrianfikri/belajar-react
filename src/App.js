@@ -9,7 +9,7 @@ export class App extends Component {
     return (
       <div>
         <h1> Ini Halaman</h1>
-        <Greeting name="fikri" />
+        <Greeting name="Wha ever" />
       </div>
     );
   }
